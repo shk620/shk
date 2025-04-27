@@ -39,7 +39,7 @@ header{
 
 .logo{
     font-size: 3rem;
-    color: green;
+    color: rgb(255, 0, 0);
     font-weight: 800;
     cursor: pointer;
     transition: 0.5s ease;
