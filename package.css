@@ -1,0 +1,54 @@
+/*section packages*/
+.main-txt h1{
+    text-align:center;
+    margin-top:30px;
+    font-weight:600;
+    text-shadow:0px 1px 1px black;
+
+}
+.main-text h1 span{
+    color:black;
+    background-color: white;
+}
+.packages .card{
+    border-radius:3px;
+    width:80%;
+    border:none;
+    box-shadow:rgba(0,0,0,0.1) 7px 4px 12px;
+    overflow: hidden; 
+}
+.packages .card img{
+    border-radius:5px;
+    width:80%;
+}
+.packages .card .card-body{
+    background:transparent;
+}
+.packages .card .card-body h3{
+    font-size: 25px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.checked{
+    color:orange;
+}
+.star i{
+    font-size: 15px;
+}
+.package .card .card-body h6{
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.packages .card .card-body a{
+    padding:5px;
+    text-decoration:none;
+    background:orange;
+    color:black;
+    border-radius:5px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.packages body{
+    scroll-behavior: smooth;
+    align-items: center;
+}
+/*package section end*/

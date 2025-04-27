@@ -1,0 +1,36 @@
+/*section book start*/
+.contact{
+    background:black;
+    padding:50px;
+    background-color: antiquewhite;
+}
+.main-text h1{
+    text-align: center;
+    text-shadow:0px 1px 1px black;
+    font-weight:600;
+}
+.main-text h1 span{
+    color:green;
+}
+.main-text strong{
+    font-weight:600;
+}
+
+
+.contact.card{
+    border-radius:10px;
+    box-shadow:0px 5px 5px -6px black;
+}
+.contact.row{
+    margin-top:30px;
+}
+.contactform input{
+    padding:10px;
+    color:black;
+    border:none;
+    outline:none;
+    font-size:15px;
+    border-radius:10px;
+    box-shadow:0px 5px 5px;
+}
+/*section book end*/
